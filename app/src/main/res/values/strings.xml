@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wheather-app</string>
+    <string name="your_e_mail">Почтовый адрес</string>
+    <string name="login">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="go_to_login_page">Регистрация</string>
+    <string name="button">Вход</string>
+    <string name="search">Узнать погоду</string>
+    <string name="location">Город</string>
+</resources>
